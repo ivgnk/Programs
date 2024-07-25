@@ -47,6 +47,9 @@ https://www.youtube.com/results?search_query=настройка+gigaide
 ### Python                
 2024 [Shiny for Python 1.0 с большим набором функций и стабильным API. Фреймворк построен на основе современного веб-стека Python и использует Starlette и asyncio для создания веб-приложений](https://habr.com/ru/news/831078/)              
 
+## Law
+2024 [Авторские права на служебные произведения и изобретения: что нужно знать автору и работодателю](https://habr.com/ru/articles/831168/)                          
+
 ## Messengers                
 https://www.opennet.ru/keywords/messenger.html
 
