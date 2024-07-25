@@ -2,7 +2,14 @@
 News about new programs
 
 ## AI    
-27.06.2024 [Рейтинг открытости генеративных AI-моделей](https://www.opennet.ru/opennews/art.shtml?num=61448)          
+27.06.2024 **[Рейтинг открытости генеративных AI-моделей](https://www.opennet.ru/opennews/art.shtml?num=61448)**          
+
+23.07.2024 [Meta выпустила Llama 3.1](https://habr.com/ru/companies/bothub/news/830930)                           
+**https://habr.com/ru/news/830928/**     https://habr.com/ru/news/830688/                                       
+
+23.07.2024 [Команда Yandex разработала и опубликовала в свободном доступе новые методы сжатия больших языковых моделей](https://habr.com/ru/news/830872/)                   
+https://yandex.ru/company/news/02-23-07-2024    **https://github.com/Vahe1994/AQLM**                                          
+
 
 
 ## 📄 IDE 
