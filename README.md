@@ -4,6 +4,8 @@ News about new programs
 ## 👻 AI    
 27.06.2024 **[Рейтинг открытости генеративных AI-моделей](https://www.opennet.ru/opennews/art.shtml?num=61448)**          
 
+25.07.2024 [Представлена языковая модель Mistral Large 2 размером 123B. Как запускать. Локальный Сopilot. Открытый конкурент GPT-4o](https://habr.com/ru/articles/831272/)
+
 23.07.2024 [Meta выпустила Llama 3.1](https://habr.com/ru/companies/bothub/news/830930)                           
 **https://habr.com/ru/news/830928/**     https://habr.com/ru/news/830688/                                       
 
