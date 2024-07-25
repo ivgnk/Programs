@@ -7,7 +7,10 @@ Giga IDE Desktop — интегрированная среда разработ�
 мультиязычные проекты с использованием JavaScript, TypeScript, SQL, 
 а также дополнительно включает 70 инструментов для облегчения задач разработки, автоматизации тестирования и администрирования приложений
 https://www.ixbt.com/news/2024/06/27/sber-otkryl-dostup-k-rossijskoj-srede-razrabotki-giga-ide-so-vstroennym-iiassistentom.html                
-❗ GigaIDE **https://gitverse.ru/features/gigaide#desktop**
 
-## VCS
-https://gitverse.ru - Russian GitHub
+### ❗ GigaIDE                              
+**https://gitverse.ru/features/gigaide#desktop**                        
+https://www.youtube.com/results?search_query=настройка+gigaide                         
+
+## VCS                
+https://gitverse.ru - Russian GitHub                              
