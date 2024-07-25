@@ -10,7 +10,9 @@ News about new programs
 23.07.2024 [Команда Yandex разработала и опубликовала в свободном доступе новые методы сжатия больших языковых моделей](https://habr.com/ru/news/830872/)                   
 https://yandex.ru/company/news/02-23-07-2024    **https://github.com/Vahe1994/AQLM**                                          
 
-## 💿 Databases
+## 💿 Databases          
+**https://www.opennet.ru/keywords/#17**                       
+
 22.07.2024 [Postgres Professional обновила бесплатный курс по администрированию PostgreSQL 16](https://habr.com/ru/news/830646/)            
 https://postgrespro.ru/education/courses/DBA1                  
 
@@ -36,6 +38,9 @@ https://www.youtube.com/results?search_query=настройка+gigaide
 ## Languages              
 ### Python                
 2024 [Shiny for Python 1.0 с большим набором функций и стабильным API. Фреймворк построен на основе современного веб-стека Python и использует Starlette и asyncio для создания веб-приложений](https://habr.com/ru/news/831078/)              
+
+## Messengers                
+https://www.opennet.ru/keywords/messenger.html
 
 ## VCS                
 https://gitverse.ru - Russian GitHub                              
