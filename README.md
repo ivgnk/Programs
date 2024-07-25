@@ -37,6 +37,11 @@ https://www.opennet.ru/opennews/art.shtml?num=61463
 **https://gitverse.ru/features/gigaide#desktop**                        
 https://www.youtube.com/results?search_query=настройка+gigaide                         
 
+## Language for communication                
+**https://habr.com/ru/hubs/learning_languages/articles/**
+25.07.2024 [Tell me about yourself — вопросы для собеседования на английском (на примере Product manager, ответы + грамматика)](https://habr.com/ru/articles/831238/)                    
+
+
 ## Languages              
 ### Python                
 2024 [Shiny for Python 1.0 с большим набором функций и стабильным API. Фреймворк построен на основе современного веб-стека Python и использует Starlette и asyncio для создания веб-приложений](https://habr.com/ru/news/831078/)              
