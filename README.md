@@ -47,6 +47,21 @@ https://www.youtube.com/results?search_query=настройка+gigaide
 ### Python                
 2024 [Shiny for Python 1.0 с большим набором функций и стабильным API. Фреймворк построен на основе современного веб-стека Python и использует Starlette и asyncio для создания веб-приложений](https://habr.com/ru/news/831078/)              
 
+#### Tests            
+**https://www.youtube.com/results?search_query=python+unittest+по+русски**                
+2019 **[Юнит-тесты на Python: Быстрый старт](https://habr.com/ru/companies/otus/articles/481806/)** - MaxRokatansky                     
+2019 [Курс Python 3 | Тестирование в Python](https://www.youtube.com/watch?v=Ynrwk5OLI5Q) - Андрей Андриевский                  
+2019 [Курс Python 3 | Тестирование класса в Python](https://www.youtube.com/watch?v=LpdCHH8l4TU) - Андрей Андриевский                  
+2021 [Юнит-тестирование. Использование unittest и coverage в PyCharm](https://www.youtube.com/watch?v=YD7aYJh3k-w) - Python Russian                           
+2021 [Успешный программист - это успешный тестировщик. Тестирование кода, Unit тесты в python](https://www.youtube.com/watch?v=yUwD8eOc97E) - Python Hub Studio                          
+2021 [Примеры Unittest Mock Patch на Python](https://www.youtube.com/watch?v=kd2TzV8Ut-A)- Prog Today               
+2022 [Python Unit Tests: Введение в Тестирование](https://www.youtube.com/watch?v=wPAVQItNu14) - Аве Кодер                 
+           
+
+#### AI helpers
+2024 [Gigacode и PyCharm: используем ИИ в работе](https://www.youtube.com/watch?v=qRXL6oVZm6E) - Python Russian        
+
+
 ## Law
 2024 [Авторские права на служебные произведения и изобретения: что нужно знать автору и работодателю](https://habr.com/ru/articles/831168/)                          
 
