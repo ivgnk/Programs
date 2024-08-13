@@ -50,12 +50,12 @@ https://www.youtube.com/results?search_query=настройка+gigaide
 #### Tests            
 **https://www.youtube.com/results?search_query=python+unittest+по+русски**                
 2019 **[Юнит-тесты на Python: Быстрый старт](https://habr.com/ru/companies/otus/articles/481806/)** - MaxRokatansky                     
-2019 [Курс Python 3 | Тестирование в Python](https://www.youtube.com/watch?v=Ynrwk5OLI5Q) - Андрей Андриевский                  
-2019 [Курс Python 3 | Тестирование класса в Python](https://www.youtube.com/watch?v=LpdCHH8l4TU) - Андрей Андриевский                  
-2021 [Юнит-тестирование. Использование unittest и coverage в PyCharm](https://www.youtube.com/watch?v=YD7aYJh3k-w) - Python Russian                           
-2021 [Успешный программист - это успешный тестировщик. Тестирование кода, Unit тесты в python](https://www.youtube.com/watch?v=yUwD8eOc97E) - Python Hub Studio                          
-2021 [Примеры Unittest Mock Patch на Python](https://www.youtube.com/watch?v=kd2TzV8Ut-A)- Prog Today               
-2022 [Python Unit Tests: Введение в Тестирование](https://www.youtube.com/watch?v=wPAVQItNu14) - Аве Кодер                 
+2019 Video: [Курс Python 3 | Тестирование в Python](https://www.youtube.com/watch?v=Ynrwk5OLI5Q) - Андрей Андриевский                  
+2019 Video: [Курс Python 3 | Тестирование класса в Python](https://www.youtube.com/watch?v=LpdCHH8l4TU) - Андрей Андриевский                  
+2021 Video: [Юнит-тестирование. Использование unittest и coverage в PyCharm](https://www.youtube.com/watch?v=YD7aYJh3k-w) - Python Russian                           
+2021 Video: [Успешный программист - это успешный тестировщик. Тестирование кода, Unit тесты в python](https://www.youtube.com/watch?v=yUwD8eOc97E) - Python Hub Studio                          
+2021 Video: [Примеры Unittest Mock Patch на Python](https://www.youtube.com/watch?v=kd2TzV8Ut-A)- Prog Today               
+2022 Video: [Python Unit Tests: Введение в Тестирование](https://www.youtube.com/watch?v=wPAVQItNu14) - Аве Кодер                 
            
 
 #### AI helpers
